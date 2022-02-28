@@ -17,6 +17,8 @@
 </a>
 
 ### Stats
+[![profile](https://github-readme-stats.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
+
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="CS" src="https://img.shields.io/badge/C%23-23912?style=flat-square&logo=c%20sharp&logoColor=white" />
