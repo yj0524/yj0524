@@ -1,3 +1,6 @@
+### Mail
+admin@mushtle.co.kr
+
 ### Discord
 yj0524_kr#0113
 
