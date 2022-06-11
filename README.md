@@ -1,8 +1,8 @@
 ### Mail
-admin@mushtle.co.kr
+[admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
 
 ### Discord
-yj0524_kr#0113
+[yj0524_kr#0113](https://discord.com/users/740016886204334141)
 
 ### Stats
 [![profile](https://github-readme-stats.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
@@ -12,4 +12,4 @@ yj0524_kr#0113
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&langs_count=8,show_icons=true&theme=tokyonight)]()<br><br>
 
 ### Profile Views
-![Profile views counter](https://komarev.com/ghpvc/?username=yj0524&&style=flat-square)
+[Profile views counter](https://komarev.com/ghpvc/?username=yj0524&&style=flat-square)
