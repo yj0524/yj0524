@@ -1,15 +1,18 @@
-### Mail
+## Notice
+**모든 라이선스 없는 리포지토리는 MIT 라이선스라고 보시면 됩니다.**
+
+## Mail
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
 
-### Discord
+## Discord
 [yj0524_kr#0113](https://discord.com/users/740016886204334141)
 
-### Stats
+## Stats
 [![profile](https://github-readme-stats.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
 
-### Languages
+## Languages
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&langs_count=8,show_icons=true&theme=tokyonight)]()<br><br>
 
-### Profile Views
+## Profile Views
 ![Profile views counter](https://komarev.com/ghpvc/?username=yj0524&&style=flat-square)
