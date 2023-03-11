@@ -1,5 +1,5 @@
 ## Notice
-**모든 라이선스 없는 리포지토리는 MIT 라이선스라고 보시면 됩니다.**
+**모든 라이선스 없는 리포지토리는 MIT 라이선스라고 보시면 됩니다.** | **Think of all unlicensed repositories as MIT-licensed.**
 
 ## Mail
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
