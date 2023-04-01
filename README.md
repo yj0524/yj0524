@@ -5,9 +5,9 @@
 
 ---
 
-나의 버전 표기법 : <Major>.<Minor>.<Patch>.[Hotfix]
+나의 버전 표기법 : Major.Minor.Patch.Hotfix
 
-My version notation : <Major>.<Minor>.<Patch>.[Hotfix]
+My version notation : Major.Minor.Patch.Hotfix
 
 ## Mail
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
