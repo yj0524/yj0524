@@ -5,9 +5,9 @@
 
 ---
 
-나의 버전 표기법 : <Major>.<Minor>.<Patch>.[Hotfix] (Major : 이전과 호환이 되지 않는 큰 변화가 일어났을 때 | Minor : 기능이 추가되거나 변경되었을 때 | Patch : 자잘한 오류를 수정했을 때 | Hotfix : 치명적인 오류가 발생했을 때
+나의 버전 표기법 : <Major>.<Minor>.<Patch>.[Hotfix]
 
-My version notation: <Major>.<Minor>.<Patch>.[Hotfix] (Major: When a big change that is incompatible with the previous one happened | Minor: When a feature was added or changed | Patch: When a minor error was made. When it was fixed | Hotfix: When a fatal error occurred
+My version notation : <Major>.<Minor>.<Patch>.[Hotfix]
 
 ## Mail
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
