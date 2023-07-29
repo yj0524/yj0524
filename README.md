@@ -24,7 +24,7 @@ My version notation : Major.Minor.Patch.Hotfix
 
 </details>
 
-## Mail
+## E-Mail
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
 
 ## Discord
