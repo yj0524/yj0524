@@ -28,7 +28,7 @@ My version notation : Major.Minor.Patch.Hotfix
 [admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
 
 ## Discord
-[yj0524_kr#0524](https://discord.com/users/740016886204334141)
+[yj0524_kr](https://discord.com/users/740016886204334141)
 
 ## Stats
 [![profile](https://github-readme-stats-sigma-five.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
