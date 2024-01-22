@@ -1,10 +1,6 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)
 
 ## Announcements
-**마인크래프트 1.20 버전으로 플러그인을 업데이트하는 과정은 필요한 플러그인일때만 할 예정입니다. (Pull Requests 환영)**
-
-**The process of updating the plugin to Minecraft version 1.20 will be done only when the plugin is necessary. (Pull Requests welcome)**
-
 ---
 
 <details>
