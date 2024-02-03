@@ -1,5 +1,5 @@
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)](https://github.com/yj0524)
 
 ## solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yj0524_kr)](https://solved.ac/yj0524_kr/)
@@ -29,11 +29,11 @@ My version notation : Major.Minor.Patch.Hotfix
 -->
 
 ## Stats
-[![profile](https://github-readme-stats.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
+[![profile](https://github-readme-stats.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)](https://github.com/yj0524)
 
 ## Languages
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&hide=css,xml&theme=tokyonight)]()<br><br>
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&layout=compact&hide=css,xml&theme=tokyonight)](https://github.com/yj0524)<br>
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0524&hide=css,xml&theme=tokyonight)](https://github.com/yj0524)
 
 <!--
 ## Profile Views
