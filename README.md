@@ -1,5 +1,10 @@
+## Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)
 
+## solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yj0524_kr)](https://solved.ac/yj0524_kr/)
+
+<!--
 ## Announcements
 ---
 
@@ -21,12 +26,7 @@ My version notation : Major.Minor.Patch.Hotfix
 ---
 
 </details>
-
-## E-Mail
-[admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
-
-## Discord
-[yj0524_kr](https://discord.com/users/740016886204334141)
+-->
 
 ## Stats
 [![profile](https://github-readme-stats-sigma-five.vercel.app/api?username=yj0524&show_icons=true&theme=tokyonight)]()<br><br>
@@ -35,5 +35,13 @@ My version notation : Major.Minor.Patch.Hotfix
 [![Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yj0524&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 [![Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yj0524&langs_count=8,show_icons=true&theme=tokyonight)]()<br><br>
 
+<!--
 ## Profile Views
 ![Profile views counter](https://komarev.com/ghpvc/?username=yj0524&&style=flat-square)
+-->
+
+## E-Mail
+[admin@mushtle.co.kr](mailto://admin@mushtle.co.kr)
+
+## Discord
+[yj0524_kr](https://discord.com/users/740016886204334141)
