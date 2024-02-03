@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)](https://github.com/yj0524)
 
 ## solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yj0524_kr)](https://solved.ac/yj0524_kr/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yj0524_kr)](https://solved.ac/yj0524_kr/)
 
 <!--
 ## Announcements
